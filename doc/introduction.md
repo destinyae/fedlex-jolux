@@ -5,11 +5,11 @@ This introduction explains some key terms to understand the scope of its content
 
 ## Fedlex
 
-The Swiss federal government operates the **Fedlex** platform to publish the **federal law**. This platform provides a [website](https://www.fedlex.admin.ch/en) as frontend with easy navigable functions. For some cases, it is beneficial to work directly with the raw data that is also the basis for the frontend website. This raw data is available in [RDF](https://www.w3.org/TR/rdf11-primer/) format through a [SPARQL GUI](https://fedlex.data.admin.ch/en-CH/sparql) and a SPARQL endpoint at `https://fedlex.data.admin.ch/sparqlendpoint`.
+The Swiss federal government operates the **Fedlex** platform to publish the **federal law**. This platform provides a [website](https://www.fedlex.admin.ch/en) as frontend with easy navigable functions. For some cases, it is beneficial to work directly with the raw data which is also the basis for the frontend website. This raw data is available in [RDF](https://www.w3.org/TR/rdf11-primer/) format through a [SPARQL GUI](https://fedlex.data.admin.ch/en-CH/sparql) and a SPARQL endpoint at `https://fedlex.data.admin.ch/sparqlendpoint`.
 
 ## JOLux Ontology
 
-The raw data of the Fedlex platform in RDF is modelled according to the **JOLux ontology**. This ontology is used for describing **legislative resources and their relationships**.
+The raw data of the Fedlex platform in RDF is modeled according to the **JOLux ontology**. This ontology is used for describing **legislative resources and their relationships**.
 
 JOLux is based on recent developments in bibliographical description, adapting the [FRBR model](https://repository.ifla.org/handle/123456789/811) (Functional requirements for Bibliographic Records, developed by the [IFLA](https://www.ifla.org/)) in order to describe legislative resources.
 
